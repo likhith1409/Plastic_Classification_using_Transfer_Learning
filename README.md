@@ -256,11 +256,11 @@ plot_history(history)
 ```
 ### Training Accuracy & Loss Graph
 
-![Accuracy and Loss](/images/graph1.png)
+![graph1](https://github.com/user-attachments/assets/e4eb39cd-4bec-4964-b822-e54ac3eeca1c)
 
 ### Confusion Matrix
 
-![Confusion Matrix](/images/graph2.png)
+![graph2](https://github.com/user-attachments/assets/77b0a831-378d-4295-8eb5-fe6eb3ec8f2a)
 
 ### Conclusion
 
