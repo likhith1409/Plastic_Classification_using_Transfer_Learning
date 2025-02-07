@@ -169,10 +169,10 @@ elif page == "Model Training":
 
     # Upload and display the graph images (Accuracy/Loss and Confusion Matrix)
     st.subheader("Training Accuracy & Loss Graph")
-    st.image("assets\graph1.png", caption="Training Accuracy and Loss")
+    st.image("./assets/graph1.png", caption="Training Accuracy and Loss")
 
     st.subheader("Confusion Matrix")
-    st.image("assets\graph2.png", caption="Confusion Matrix")
+    st.image("./assets/graph2.png", caption="Confusion Matrix")
 
     # Conclusion and observations
     st.markdown("""
